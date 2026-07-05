@@ -32,10 +32,10 @@ O projeto foi estruturado utilizando as seguintes competências técnicas:
 *   **Projetos:** Vitrine em formato de cards estruturados com descrição, tecnologias e links de acesso.
 *   **Contato:** Canal direto "Vamos conversar" com links integrados para redes profissionais.
 
-
 ## 🔗 Como Acessar
 
-Você pode ver o portfólio online rodando aqui: **[Acessar Portfólio Online](everaldoferreira.github.io/portfolio-IA/)**
+Você pode ver o portfólio online rodando aqui: <a href="https://everaldoferreira.github.io/portfolio-IA/" target="_blank">**Acessar Portfólio Online**</a>
+
 
 ## 🔧 Execução Local
 
@@ -49,4 +49,5 @@ git clone https://github.com
 cd portfolio-IA
 
 # Abrir o index.html no navegador
+index.html
 ```
