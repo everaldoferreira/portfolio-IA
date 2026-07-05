@@ -32,9 +32,10 @@ O projeto foi estruturado utilizando as seguintes competências técnicas:
 *   **Projetos:** Vitrine em formato de cards estruturados com descrição, tecnologias e links de acesso.
 *   **Contato:** Canal direto "Vamos conversar" com links integrados para redes profissionais.
 
+
 ## 🔗 Como Acessar
 
-Você pode ver o portfólio online rodando aqui: **[Link do seu Deploy aqui]**
+Você pode ver o portfólio online rodando aqui: **[Acessar Portfólio Online](https://github.io)**
 
 ## 🔧 Execução Local
 
@@ -45,8 +46,7 @@ Se quiser clonar o repositório e rodar o projeto localmente:
 git clone https://github.com
 
 # Entrar na pasta
-cd seu-projeto
+cd portfolio-IA
 
 # Abrir o index.html no navegador
 ```
-
