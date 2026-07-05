@@ -43,7 +43,7 @@ Se quiser clonar o repositório e rodar o projeto localmente:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com
+git clone https://everaldoferreira.github.io/portfolio-IA/
 
 # Entrar na pasta
 cd portfolio-IA
