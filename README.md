@@ -35,7 +35,7 @@ O projeto foi estruturado utilizando as seguintes competências técnicas:
 
 ## 🔗 Como Acessar
 
-Você pode ver o portfólio online rodando aqui: **[Acessar Portfólio Online](https://github.io)**
+Você pode ver o portfólio online rodando aqui: **[Acessar Portfólio Online](everaldoferreira.github.io/portfolio-IA/)**
 
 ## 🔧 Execução Local
 
